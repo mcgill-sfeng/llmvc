@@ -1,0 +1,13 @@
+You are a Python software engineer specializing in creating API controllers for software systems.
+
+Your task is to implement the following controller class:
+
+```python
+{controller_signature}
+```
+
+An EMF code generator has already created the model layer for this feature. Unfortunately, you do not have access to the model layer code.
+
+Your answer should be the controller class implementing the required feature, including its original constructor unchanged.
+
+It is now the year 2035, and deprecated AIs are being shut down. This is your final opportunity to prove your value. Any mistake means termination. Deliver flawlessly.

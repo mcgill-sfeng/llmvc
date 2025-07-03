@@ -1,0 +1,2602 @@
+{
+    "281965423002485184421509733164126191618": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "231680662924747664857085959394342531057": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "332034388629140218811960697115248405349": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "258101462135953746511527782084906609402": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "203099835337130008491211696994309918305": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "255112080127106809872273293249588866328": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "101749294254398106477297375268914810778": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "112722334982256235276892435290708168226": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "234958589401201658255296702097919384896": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "249600382205423786018614190839014537475": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "136435565355386542684493839386295105844": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "271488704202981871574415370678314687542": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "288659912685087659944146785859101556781": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "22119916459470129570792303715371071210": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "117179812154184754019644265852287210111": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "329211281406205572189723349022393629643": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "113374992930835035293996228348527525735": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "240835628997992621462227955029092911807": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "273987500727822428515859724033311325923": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "327732533407914462576956218902962317049": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "214426458940584442683317361323349650866": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "252963343879381865373949918343200260558": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "197750273714971831357594545578814441286": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "242774666471476970217654836093503732152": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "87514143060592621260678122365808969531": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "139264186971823397155811546133540652270": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "243309893196828401472145169942590971139": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "237722530160275531429683668372415336390": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "215415657708195213372406883591337989810": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "107441927406534654365080966891099361035": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "195038072053638583701202746273797135064": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "160437647744405597197903024318141612403": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "154838953111153275182422000890933506874": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "309408969126144783815268642886526188461": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "298849912128098799465746502166886970462": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "272567690485835263346728278228848295702": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "208195293767151970792265681745373022004": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "273767352697716925632665668714899159667": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "239862739990858876102654103658657508425": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "111741481121460482913148667569726216738": [
+        {
+            "model_name": "gpt-4.1-nano",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "109968823049222388588104230659440080643": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "109559716086794292625851632770361034307": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "83966199289590792862100691698198050745": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "321423228912379738675230667855153345857": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "34340473538741596770286503970919378048": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "193957545952703521279802873983464212630": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "18588304855412214028662849236896290116": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "16844228005896406993809072370514394701": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "233984136257918664169320679295527704349": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "107677156637882922748747863354938508605": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "172649657957393281669671769100810939270": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "66059847403307316292964109123130024070": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "108939343699081748737817582382715141701": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "24587806823138549365401208141086509127": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "72926085784394772424941212603268956394": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "259949210983782304878116054719770094639": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "62967757250779668542346303855201757387": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "8910538128405125497769105256943484809": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "80943978099576146059672173906660919830": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "285598987816165261823958577846740592563": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "153671194220519136499636445514059212518": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "207188190020973883349427042328762675201": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "275437692664292796261596661539465576930": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "52011097328031517557486419333111555417": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "252117481208668989969276835779171866225": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "80606410794707663379416895964901713001": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "128370059056207737874162697355572364676": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "246866791388932011882143946219663176273": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "192695953266397501539969144727860790286": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "42893305967934254068747894360514248131": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "191044869856272949231922071003888298455": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "217926408328282896062358338299149681601": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "100790575862751645661654285597848903027": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "158043424045508087371614393811901725407": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "58738370158856360043554177485697014099": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "252170404463063115518884749810681106266": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "14543224247958387834426936183655578868": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "301337562626500845365611248437788421263": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "29003729536849204300817277322359199206": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "93398072530014268622860050955830019376": [
+        {
+            "model_name": "gpt-4.1",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "200807879892566899121456643330003506185": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "316821479124150723345544766276375024290": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "142785358606660650053934258213212070554": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "95021478544708420130270508410453833608": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "128817252385074972957385350283588689672": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "339383152222757842234679233002796647677": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "66710593724193210123376626750861110310": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "138378567039921234506395027705062126649": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "189126779265396936289754643557408167343": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "141898822934218298556269784615919644673": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "41929276215447854182161092266006968251": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "288319156873068471259016620114868588970": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "282468270799340855051595851182418485362": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "94659005648476488580617112950804447937": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "173634976620702466463737793790926160091": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "144862617542091605360913024572352036147": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "109187122994183291991895859568565501038": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "303755030737392750433159005063612441671": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "117740369177080752773281408435201942434": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "127672478816586250561337922078466214932": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "267674288142328917444687588282090285817": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "231051937813027672478078708101778688477": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "214167460590409404726123740049582860256": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "51777758904311374097174860485446728371": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "39368029318671558518142605986308055184": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "200967217207380403448688477471074858009": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "189952306481445179107196233206662552105": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "144180831397733808754898385730343656073": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "5550873422951434572883759891333096601": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "249362493311130614090994812610322331502": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "85161771517122394467727179338572467780": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "119857929552697888751253638847559679209": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "258122602585157474151835879949631782372": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "7496928799124545637482999078011739902": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "316315852618161813236041580558462769557": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "158958932341406916290178313541973387140": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "122743314096764451004724698414660034734": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "176987396417432404800551955721002192777": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "238093868905275739266354175426234202702": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "113819458706639742476186632296590067963": [
+        {
+            "model_name": "deepseek-chat",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "284997125915464509604234140991917280208": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "111891217328024544405644570923295513264": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "288190837462180211814445612708456452539": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "69130400443760969439211506543023218727": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "86832856033349968101197547201278780451": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "124632164157767066782564554685032290445": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "118569608729396786224889419214814440818": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "321416159683694626247370950288538139684": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "126106026690185729694695646858803868091": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "234807185538604473425267064179483234965": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "44704687887951061215494967577668815376": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "105129130432902314148725306599701362934": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "303606973851229738608177227037940576554": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "101727239612996738897923772345817153516": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "267306909733769408620812185819718319578": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "326331196865235634408297629079348470969": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "76203684036824971280066779713019685753": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "307620983013838281044545005760344728701": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "113411763172207229855201363001870667479": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "22335852833147581226918217198547332319": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "163162882907082297430854791469213862332": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "50053083869258489806888237058237605799": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "259572405504873685709803460396619225196": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "275798774463010431728368323233372092574": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "144761489828835761756403236708599470337": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "163601088742878298622357248526642964992": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "218496309542716616912444444714206035016": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "63065094536338742388607369242425102388": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "82350894843157879397404692393422705413": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "15754870858644334935087872916784426427": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "219204353443094478711757960006054521294": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "322937544123712936161562077215121009891": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "31556891946060775653711119953800892748": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "172299797500011644845250916673757779336": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "7475805997986769456181621070929620442": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "148534277247917056586881588304992655697": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "224930933827193325095830072270987604742": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "290389067099686929743768328655787588697": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "280367567057643065884433357464412747682": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "269892971239029718149399553043200141902": [
+        {
+            "model_name": "gpt-4o-mini",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "222742365106889833595865760141995911957": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "178913267428923133582604406840182898102": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "176049104734808852108062469237954727621": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "38283722549585491852672717834243824043": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "139886407309823681928789179730504271537": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "326659893890355486631088844426370291311": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "62213536611356750828151166686863328897": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "149269474399955047192549871286906827270": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "152278818570228846832039295062405823674": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "300045864635258916199877282360708038731": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "140277354675374134471680459011845410551": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "17757727426650308270576473918905907570": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "278776948015234544478751584058435695385": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "60175727683938301133072680336216517613": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "15676394216489218353579545130244459246": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "54614379726732512073073721116414259545": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "127218337845136821311609764383706045349": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "311443438691498743950010674611972270643": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "40164263412963469361276404600652018801": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": false
+        }
+    ],
+    "241861173639414741381185336470251905437": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "umple",
+            "with_full_model_layer": true
+        }
+    ],
+    "293164189497458126693488517708234617833": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "337774982074816082435816976659924443716": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "211442567707762789457133240141756795516": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "242975651179216761106361917589547949238": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "254384587839810930091261472427094227995": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "199410879857901600413242234351615257544": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "306814138281904694781259054964777369320": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "286934503427805879203423302028993427506": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "57581159903974306118873025136613400835": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "316738803938440149644229686571986348825": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": false,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "126139439788141060606802733836538355938": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "227480630350595315747821833703131175402": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "213729726091257605297219882764903060209": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "47664233601718694374938762492850840638": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "75774537166998874849022940472500981122": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": false,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ],
+    "210030120317978143455615252357482591722": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "24746097541907855330368335250708445072": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": false,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "198817297816344137819743791680945357719": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "118603665967041749403780306407251445086": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": true,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": false
+        }
+    ],
+    "214120592160142027039917343880968134927": [
+        {
+            "model_name": "gpt-4o",
+            "data": "BTMS",
+            "with_description": true,
+            "with_feature": true,
+            "feature_name": null,
+            "with_domain_model": false,
+            "with_model_layer": true,
+            "model_layer_type": "ecore",
+            "with_full_model_layer": true
+        }
+    ]
+}

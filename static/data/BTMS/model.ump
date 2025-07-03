@@ -1,0 +1,32 @@
+class BTMS {
+  1 <@>- * BusVehicle vehicles;
+  1 <@>- * Route routes;
+  1 <@>- * RouteAssignment assignments;
+  1 <@>- * Driver drivers;
+  1 <@>- * DriverSchedule schedules;
+}
+
+class BusVehicle {
+  unique String licencePlate;
+}
+
+class Route {
+  unique Integer number;
+}
+
+class RouteAssignment {
+  Date date;
+  * assignments -- 1 BusVehicle bus;
+  * assignments -- 1 Route;
+}
+
+class Driver {
+  unique String name;
+}
+
+class DriverSchedule {
+  enum Shift { Morning, Afternoon, Night }
+  Shift shift;
+  * schedules -- 1 Driver driver;
+  * schedules -- 1 RouteAssignment assignment;
+}

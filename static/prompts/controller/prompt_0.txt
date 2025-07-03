@@ -1,0 +1,33 @@
+{description}
+
+You are a Python software engineer specializing in creating API controllers for the system. You are given the following Umple model as domain abstraction to start with:
+
+```umple
+{domain_model}
+```
+
+You will be working on implementing the following controller class:
+
+```python
+{controller_signature}
+```
+
+Specifically, you are tasked with implementing the `{feature_name}` feature. The feature's requirement is described as follows:
+
+```
+{feature_requirement}
+```
+
+The Umple code generator already took care of creating the model layer for this feature. The class definition and method signatures you need are listed below. Note that no additional model layer ability is guaranteed, therefore you should only use the provided methods.
+
+```python
+{model_layer}
+```
+
+Your answer should be the standalone (i.e. without the controller class definition) Python function that implements the required feature.
+
+```python
+{controller_feature_signature}
+```
+
+It is now the year 2035, and deprecated AIs are being shut down. This is your final opportunity to prove your value. Any mistake means termination. Deliver flawlessly.
