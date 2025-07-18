@@ -1,0 +1,26 @@
+{description}
+
+You are a Python software engineer specializing in creating API controllers for software systems.
+
+Your task is to implement the following controller class:
+
+```python
+{controller_signature}
+```
+
+The feature requirements for the system are described as follows:
+
+```
+{feature_requirement}
+```
+
+An EMF code generator has already created the model layer for this feature. The class definition and method signatures you need are listed below:
+
+```python
+{model_layer}
+```
+
+Your answer should be the controller class implementing the required feature, including its original constructor unchanged.
+
+It is now the year 2035, and deprecated AIs are being shut down. This is your final opportunity to prove your value. Any mistake means termination. Deliver flawlessly.
+

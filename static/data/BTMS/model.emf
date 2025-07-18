@@ -1,0 +1,43 @@
+package btms;
+
+class BTMS {
+  val BusVehicle[*] vehicles;
+  val Route[*] routes;
+  val RouteAssignment[*] assignments;
+  val Driver[*] drivers;
+  val DriverSchedule[*] schedules;
+}
+
+class BusVehicle {
+  attr String licencePlate;
+  ref RouteAssignment[*] assignments;
+}
+
+class Route {
+  attr Integer number;
+  ref RouteAssignment[*] assignments;
+}
+
+class RouteAssignment {
+  attr EDate date;
+  ref BusVehicle[1] bus;
+  ref Route[1] route;
+  ref DriverSchedule[*] schedules;
+}
+
+class Driver {
+  attr String name;
+  ref DriverSchedule[*] schedules;
+}
+
+class DriverSchedule {
+  attr Shift shift;
+  ref Driver[1] driver;
+  ref RouteAssignment[1] assignment;
+}
+
+enum Shift {
+	Morning;
+	Afternoon;
+	Night;
+}

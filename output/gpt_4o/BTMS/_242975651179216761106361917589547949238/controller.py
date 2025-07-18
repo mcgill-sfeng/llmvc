@@ -1,0 +1,39 @@
+from datetime import date
+from assets.BTMS.model.ecore import *
+
+class BTMSController:
+    def __init__(self):
+        self.btms = BTMS(vehicles=[], routes=[], assignments=[], drivers=[], schedules=[])
+
+    def create_driver(self, drivername: str):
+        # Create a new Driver object
+        new_driver = Driver(name=drivername, schedules=[])
+        # Add the new driver to the BTMS drivers list
+        self.btms.drivers.append(new_driver)
+
+    def create_route(self, number: int):
+        # Create a new Route object
+        new_route = Route(number=number, assignments=[])
+        # Add the new route to the BTMS routes list
+        self.btms.routes.append(new_route)
+
+    def create_route_assignment(self, licensePlate: str, route: int, _date: date):
+        # Find the bus with the given license plate
+        bus = next((vehicle for vehicle in self.btms.vehicles if vehicle.licencePlate == licensePlate), None)
+        if not bus:
+            raise ValueError(f"No bus found with license plate: {licensePlate}")
+
+        # Find the route with the given number
+        route_obj = next((r for r in self.btms.routes if r.number == route), None)
+        if not route_obj:
+            raise ValueError(f"No route found with number: {route}")
+
+        # Create a new RouteAssignment object
+        new_assignment = RouteAssignment(date=_date, bus=bus, route=route_obj, schedules=[])
+
+        # Add the new assignment to the bus and route
+        bus.assignments.append(new_assignment)
+        route_obj.assignments.append(new_assignment)
+
+        # Add the new assignment to the BTMS assignments list
+        self.btms.assignments.append(new_assignment)
